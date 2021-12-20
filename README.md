@@ -9,9 +9,17 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 -  Review Totals:
     -  Vine Reviews: 
-  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG
+<div class="container" align="center">
+  <div style="background-image">
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG">
+  </div>
+</div>
     -  Non-Vine Reviews:
-  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_NonVine.PNG
+<div class="container" align="center">
+  <div style="background-image">
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_NonVine.PNG">
+  </div>
+</div>
 
 -  5 Star Review Totals:
     -  Vine 5 Star Reviews: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star_table.PNG
