@@ -14,6 +14,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG">
   </div>
 </div>
+
     -  Non-Vine Reviews:
 <div class="container" align="center">
   <div style="background-image">
