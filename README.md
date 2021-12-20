@@ -23,10 +23,21 @@ Using bulleted lists and images of DataFrames as support, address the following 
 </div>
 
 -  5 Star Review Totals:
-    -  Vine 5 Star Reviews: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star_table.PNG
-    -  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star.PNG
-    -  Non-Vine 5 Star Reviews: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Non_Vine_5star_table.PNG
-    -  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/NonVine_5star.PNG
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Vine 5 Star Reviews</h5>
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star_table.PNG">
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star.PNG">
+  </div>
+</div>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Non-Vine 5 Star Reviews</h5>
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Non_Vine_5star_table.PNG">
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/NonVine_5star.PNG">
+  </div>
+</div>
 
 -  5 Star Percentages:
     -  Vine Percentage: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_percent.PNG
