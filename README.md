@@ -9,17 +9,19 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 -  Review Totals:
     -  Vine Reviews: 
+  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG
     -  Non-Vine Reviews:
-    -  Total Reviews:
+  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_NonVine.PNG
 
 -  5 Star Review Totals:
-    -  Vine 5 Star Reviews:
-    -  Non-Vine 5 Star Reviews:
-    -  Total 5 Star Reviews:
+    -  Vine 5 Star Reviews: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star_table.PNG
+    -  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star.PNG
+    -  Non-Vine 5 Star Reviews: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Non_Vine_5star_table.PNG
+    -  https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/NonVine_5star.PNG
 
 -  5 Star Percentages:
-    -  Vine Percentage:
-    -  Non-Vine Percentage:
+    -  Vine Percentage: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_percent.PNG
+    -  Non-Vine Percentage: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/NonVine_Percent.PNG
 
 
 ## Summary
