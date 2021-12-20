@@ -10,15 +10,15 @@ Using bulleted lists and images of DataFrames as support, address the following 
 -  Review Totals:
 <div class="container" align="left">
   <div style="background-image">
-    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG">
     <h5 align="left">Vine Reviews</h5>
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG">
   </div>
 </div>
 
 <div class="container" align="left">
   <div style="background-image">
-    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_NonVine.PNG">
     <h5 align="left">Non-Vine Reviews</h5>
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_NonVine.PNG">
   </div>
 </div>
 
