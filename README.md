@@ -56,4 +56,6 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+In summary, it can be inferred that while Vine Reviews had a higher percentage of 5 Star Reviews (48.9%) versus Non-Vine Reviews (38.9%), this is partially accounted for due to sample size.  Only 90 Vine reviews occured, versus 37831 Non-Vine reviews for products.  The sample sizes are vastly different, so it is difficult to determine whether a true positivity bias exists.  If the difference in percentage was higher, it would allow for a more accurate determination of positivity bias.
+
+I would suggest that creating a verified_purchase analysis could yield another factor to consider in the comparison of Vine versus Non-Vine reviews.  As has been stated, the number of reviews by comparison is excessive.  Limiting the datasets by the verified_purchases equaling "Yes" would further reduce each dataset, but also given more weight to the votes recieved.  This would lead to different percentages for the reviews, and better determine if positivity bias exists, allowing clients better use of the Vine platform.
