@@ -13,14 +13,14 @@ Using bulleted lists and images of DataFrames as support, address the following 
     <h5 align="left">Vine Reviews</h5>
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG">
   </div>
-</div>
+</div><br>
 
 <div class="container" align="left">
   <div style="background-image">
     <h5 align="left">Non-Vine Reviews</h5>
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_NonVine.PNG">
   </div>
-</div>
+</div><br>
 
 -  5 Star Review Totals:
 <div class="container" align="left">
@@ -29,7 +29,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star_table.PNG">
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_5star.PNG">
   </div>
-</div>
+</div><br>
 
 <div class="container" align="left">
   <div style="background-image">
@@ -37,7 +37,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Non_Vine_5star_table.PNG">
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/NonVine_5star.PNG">
   </div>
-</div>
+</div><br>
 
 -  5 Star Percentages:
     -  Vine Percentage: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_percent.PNG
