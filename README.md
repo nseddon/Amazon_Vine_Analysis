@@ -8,14 +8,14 @@ The purpose of this analysis is to determine the the correlation between Vine re
 Using bulleted lists and images of DataFrames as support, address the following questions:
 
 -  Review Totals:
-<div class="container" align="center">
+<div class="container" align="left">
   <div style="background-image">
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_Vine.PNG">
     <h5 align="left">Vine Reviews</h5>
   </div>
 </div>
 
-<div class="container" align="center">
+<div class="container" align="left">
   <div style="background-image">
     <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Total_NonVine.PNG">
     <h5 align="left">Non-Vine Reviews</h5>
