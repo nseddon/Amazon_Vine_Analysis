@@ -40,8 +40,19 @@ Using bulleted lists and images of DataFrames as support, address the following 
 </div><br>
 
 -  5 Star Percentages:
-    -  Vine Percentage: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_percent.PNG
-    -  Non-Vine Percentage: https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/NonVine_Percent.PNG
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Vine 5 Star Percentage</h5>
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/Vine_percent.PNG">
+  </div>
+</div><br>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Non-Vine 5 Star Percentage</h5>
+    <img src="https://github.com/nseddon/Amazon_Vine_Analysis/blob/main/images/NonVine_Percent.PNG">
+  </div>
+</div><br>
 
 
 ## Summary
